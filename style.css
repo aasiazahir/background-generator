@@ -1,0 +1,12 @@
+body{
+	background: linear-gradient(to right,red,orange); standard syntax
+}
+
+body,h1,h3{
+    font-family: 'Courier New', monospace;
+	letter-spacing: .3em;
+	top: 15%;
+	text-transform: uppercase;
+	color: rgba(0,0,0,.3);
+	text-align: center;
+}
